@@ -59,6 +59,7 @@ All endpoints have been thoroughly tested and validated in Postman desktop:
 | **10** | POST Input Validation Error (400 Bad Request) | ![POST Validation Error](screenshots/POST%20Validation%20Error.png) |
 | **11** | PUT Update Book (200 OK) | ![PUT Update Request](screenshots/PUT%20Update%20Request.png) |
 | **12** | DELETE Book Resource (200 OK) | ![DELETE Request](screenshots/DELETE%20Request.png) |
+| **13** | Live Render Cloud Deployment (200 OK) | ![Live Render Deployment](screenshots/render%20deployment.png) |
 
 ---
 
